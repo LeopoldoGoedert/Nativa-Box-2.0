@@ -23,3 +23,6 @@ Frontend reconstruído: `dist/index.html`, `dist/v2.js`, `dist/v2.css`. Backend 
 
 ## Testes
 `npm test` executa testes do backend. `node --check dist/v2.js` valida a sintaxe JS do novo frontend.
+## Status da implantação
+
+Nativa Box 2.0 — primeira implantação na Vercel.
