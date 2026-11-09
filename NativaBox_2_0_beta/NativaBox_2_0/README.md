@@ -48,3 +48,12 @@ Limite por consulta: 31 dias; é possível consultar intervalos históricos ante
 `npm test`
 
 `node --check dist/v2.js`
+
+
+## Nativa Box 2.2 — Identidade visual
+- Nova interface com cartões completos para NATIVA-01 e NATIVA-02; dados reais de `/api/state`.
+- Ícone de abelha próprio (`dist/bee.svg`) usado na aba do navegador, no login e na marca.
+- Removidas todas as referências visuais a som e a mensagem de ressalva da contagem IR.
+- A API V1.2 permanece compatível com os firmwares existentes, inclusive campos antigos opcionais.
+- Histórico de 30 dias e exportação CSV da versão 2.1.1 permanecem operacionais.
+- Valores não calibrados continuam indisponíveis; sem dados fictícios.
